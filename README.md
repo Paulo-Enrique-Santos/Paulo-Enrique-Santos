@@ -30,9 +30,6 @@
     
 </div>
 
-----
-
-<img align="center" src="https://i.imgur.com/gCaIgBD.png"/>
 <p>
   💌 Find me at: ⤵️
 </span>
