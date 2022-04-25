@@ -36,9 +36,8 @@
 </span>
 <p>
     <a href="https://www.linkedin.com/in/paulo-enrique-341944238/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://t.me/gabriesvdev" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+    <a href="https://t.me/PauloEnriqueSantos" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     <a href="https://wa.me/5511989794039" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
-    <a href = "mailto:paulinhoenrique10@gmail.com"><img src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <!--
 **Paulo-Enrique-Santos/Paulo-Enrique-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
