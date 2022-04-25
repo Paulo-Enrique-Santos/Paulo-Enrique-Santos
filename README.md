@@ -24,7 +24,7 @@
 ----
 
 ## ⭐ My GitHub account information
-<div>
+<div display="flex">
  <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Paulo-Enrique-Santos&show_icons=true&theme=tokyonight"/>
 
  <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Enrique-Santos&hide=css,shell,php&layout=compact&langs_count=7&theme=tokyonight"/>
