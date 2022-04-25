@@ -1,5 +1,5 @@
 <!-- ## Hello!, I am {Paulo Enrique}! 👋 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=6FA4FC&width=350&height=50&lines=Hello+!,+I'am+Paulo+👋+...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=6FA4FC&width=350&height=50&lines=Hello!,+I'am+Paulo+👋+...;)](https://git.io/typing-svg)
 - TESTE
 <!--
 **Paulo-Enrique-Santos/Paulo-Enrique-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
