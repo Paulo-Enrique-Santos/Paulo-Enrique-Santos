@@ -1,5 +1,5 @@
 <!-- ## Hello!, I am {Paulo Enrique}! 👋 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=6FA4FC&width=350&height=50&lines=Hello!,+I'am+Paulo+👋+...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=6FA4FC&width=350&height=50&lines=Opa,+Beleza?;)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Paulo">
 
@@ -8,19 +8,17 @@
 - 💻 I am a Fullstack Developer ...
 - 🏫 I am a Student at São Paulo Tech School ...
 - 📚 Studying Systems Analysis and Development ...
-- 🧑 I am 24 Years Old ...
 - 🌎 São Paulo - SP, Brazil ...
 
 ----
 
-## 🚀 My Skills
+## 🚀 My Front-End Skills
 
-<code><img height="32" src="https://c.mql5.com/i/community/logo_mql5-2.png"/></code>
-<code><img height="32" src="https://tiomarkets.com/pt/assets/images/demo/mt4-icon.png"/></code>
-<code><img height="32" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png"/></code>
-<code><img height="32" src="http://dev.iamvdo.me/css3.png"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
-<code><img height="32" src="https://www.elpidio.pro.br/wp-content/uploads/2021/02/workbench.png"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/100138968/235285685-c24e597c-a94f-4989-abd4-2d7ecbf475e5.png"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"/></code>
+<code><img height="32" src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png"/></code>
+<code><img height="32" src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png"/></code>
 
 
 ----
