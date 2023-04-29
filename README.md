@@ -12,14 +12,28 @@
 
 ----
 
-## 🚀 My Front-End Skills
+## 🚀 Front-End Skills
 
 <code><img height="32" src="https://user-images.githubusercontent.com/100138968/235285685-c24e597c-a94f-4989-abd4-2d7ecbf475e5.png"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"/></code>
-<code><img height="32" src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png"/></code>
-<code><img height="32" src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png"/></code>
+<code><img height="32" src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png"/></code>
+<code><img height="32" src="https://i.pinimg.com/originals/86/a9/d2/86a9d2cf24d7950adad2ee6f49ad4b1e.png"/></code>
 
+----
+
+## 🚀 Back-End Skills
+
+<code><img height="32" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"/></code>
+
+----
+
+## 🚀 Others Skills
+
+<code><img height="32" src="https://c.mql5.com/i/community/logo_mql5-2.png"/></code>
+<code><img height="32" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"/></code>
+<code><img height="32" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"/></code>
 
 ----
 
