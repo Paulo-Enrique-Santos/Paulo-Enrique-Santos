@@ -32,14 +32,14 @@
 ## 🚀 Others Skills
 
 <code><img height="32" src="https://c.mql5.com/i/community/logo_mql5-2.png"/></code>
-<code><img height="32" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"/></code>
-<code><img height="32" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"/></code>
+<code><img height="32" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"/></code>
+<code><img height="32" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png"/></code>
 
 ----
 
 ## ⭐ My GitHub account information
 <div display="flex">
- <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Paulo-Enrique-Santos&show_icons=true&theme=tokyonight"/>
+<!--  <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Paulo-Enrique-Santos&show_icons=true&theme=tokyonight"/> -->
 
  <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Enrique-Santos&hide=css,shell,php&layout=compact&langs_count=7&theme=tokyonight"/>
     
